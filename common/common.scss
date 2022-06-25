@@ -3,3 +3,13 @@
    to enable people to easily swap colour 
    schemes. i.e. for light and dark mode.
 */
+
+.cooked a {
+   &, &:visited {
+      color: var(--success) !important;
+   } 
+
+   &:hover {
+      text-decoration: underline;
+   }
+}
