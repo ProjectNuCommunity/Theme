@@ -1,0 +1,36 @@
+{
+    "name": "Project Nu Community Theme",
+    "about_url": "https://github.com/ProjectNuCommunity/Theme/blob/main/README.md",
+    "license_url": "https://github.com/ProjectNuCommunity/Theme/blob/main/LICENSE",
+    "authors": "The Project Nu Team",
+    "theme_version": "0.1",
+    "assets": {
+        "logo": "assets/logo.png"
+    },
+    "color_schemes": {
+      "light": {
+        "primary": "222",
+        "secondary": "FFF",
+        "tertiary": "141C3A",
+        "quaternary": "141C3A",
+        "header_background": "FFF",
+        "header_primary": "333",
+        "highlight": "F1F2F2",
+        "danger": "F4595B",
+        "success": "3069F0",
+        "love": "F4595B"
+      },
+      "dark": {
+        "primary": "F6F6F6",
+        "secondary": "333",
+        "tertiary": "d7fffe",
+        "quaternary": "d7fffe",
+        "header_background": "23282D",
+        "header_primary": "F6F6F6",
+        "highlight": "555",
+        "danger": "f67a7b",
+        "success": "64edc0",
+        "love": "f288e9"
+      }
+    }
+  }
