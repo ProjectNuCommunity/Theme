@@ -16,7 +16,7 @@
         "background": "FBFBFB",
         "header_background": "FFFFFF",
         "header_primary": "333333",
-        "highlight": "F1F2F2",
+        "highlight": "ffff80",
         "danger": "F4595B",
         "success": "3069F0",
         "love": "F4595B"
@@ -28,7 +28,7 @@
         "quaternary": "D7FFFE",
         "header_background": "23282D",
         "header_primary": "F6F6F6",
-        "highlight": "555555",
+        "highlight": "004080",
         "danger": "F67A7B",
         "success": "64EDC0",
         "love": "F288E9"
